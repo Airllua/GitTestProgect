@@ -9,4 +9,8 @@ public class Main {
     public String test() {
         return null;
     }
+
+    public String asdasda() {
+        return "asdada";
+    }
 }
