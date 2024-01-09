@@ -5,6 +5,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("sdstfyguhk");
         System.out.println("zz");
+        System.out.println("blabla");
+        System.out.println("789");
     }
 
     public String test() {
@@ -13,5 +15,6 @@ public class Main {
 
     public String asdasda() {
         return "asdada";
+
     }
 }
